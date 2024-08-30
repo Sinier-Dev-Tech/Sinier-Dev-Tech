@@ -6,7 +6,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="50" height="50" alt="NodeJS" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="50" height="50" alt="MongoDB" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="50" height="50" alt="PostgreSQL" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="50" height="50" alt="MySQL" />
+    <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" width="50" height="50" alt="MySQL" />
 </div>
 <div style="display: flex; align-items: center; padding: 4; margin-top: 4">
     <img src="https://img.icons8.com/color/75/000000/numpy.png" width="50" height="50" alt="Numpy" style="margin: 10px 15px 0 15px;" />
