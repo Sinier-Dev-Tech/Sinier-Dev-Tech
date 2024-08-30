@@ -42,6 +42,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=creinis&layout=compact&langs_count=20&theme=transparent&hide_title=true" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api?username=Sinier-Dev-Tech&show_icons=true&theme=transparent">
-  <img height=200 width=200 align="center" src="https://github-readme-stats.vercel.app/api?username=creinis&show_icons=true&theme=transparent&rank_icon=percentile&hide_title=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=creinis&show_icons=true&theme=transparent&rank_icon=percentile&hide_title=true" />
 </a>
 
