@@ -24,7 +24,7 @@
 </div>
 <div style="display: flex; align-items: center; padding: 4; margin-top: 4">
     <img src="https://img.icons8.com/color/75/000000/numpy.png" width="50" height="50" alt="Numpy" style="margin: 10px 15px 0 15px;" />
-    <img src="https://i1.wp.com/numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png?fit=300%2C300&ssl=1" width="50" height="50" alt="Pandas" style="margin: 10px 15px 0 15px;" />
+    <img src="https://seeklogo.com/images/P/pandas-logo-776F6D45BB-seeklogo.com.png?v=637737823900000000" width="50" height="50" alt="Pandas" style="margin: 10px 15px 0 15px;" />
     <img src="https://www.programsbuzz.com/sites/default/files/logo/seaborn-logo.png" height="50" alt="Seaborn" style="margin: 10px 15px 0 15px;" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" height="50" alt="Matplotlib" style="margin: 10px 15px 0 15px;" />
     <img src="https://th.bing.com/th/id/OIP.xcsLasmDVdhKVoBJBHLyRwHaHa?rs=1&pid=ImgDetMain" height="50" alt="SciPy" style="margin: 10px 15px 0 15px;" />
