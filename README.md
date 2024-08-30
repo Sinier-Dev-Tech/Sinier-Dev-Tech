@@ -29,6 +29,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" height="50" alt="Matplotlib" style="margin: 10px 15px 0 15px;" />
     <img src="https://th.bing.com/th/id/OIP.xcsLasmDVdhKVoBJBHLyRwHaHa?rs=1&pid=ImgDetMain" height="50" alt="SciPy" style="margin: 10px 15px 0 15px;" />
     <img src="https://ioflood.com/blog/wp-content/uploads/2023/09/Data-stream-converting-to-hash-Python-hashlib-code-snippets-Python-logo.jpg" width="50" height="50" alt="Python" style="margin: 10px 15px 0 15px;" />
+    <img src="https://th.bing.com/th/id/OIP.Q8wda0dAVxrfxX650i7z0wAAAA?rs=1&pid=ImgDetMain" width="50" height="50" alt="Numpy" style="margin: 10px 15px 0 15px;" />
     
 </div>
 
