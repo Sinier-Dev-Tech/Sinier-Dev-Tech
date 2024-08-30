@@ -1,11 +1,4 @@
-<div style="display: flex; align-items: center; padding: 2; margin-top: 4">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" height="50" alt="JavaScript" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="50" alt="HTML5" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50" height="50" alt="CSS3" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="50" height="50" alt="React" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="50" height="50" alt="Bootstrap" />
-    <img src="https://img.icons8.com/color/75/000000/tailwindcss.png" width="50" height="50" alt="Tailwind CSS" />
-</div>
+
 <div style="display: flex; align-items: center; padding: 2; margin-top: 4">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="50" height="50" alt="Python" />
     <img src="https://img.icons8.com/color/75/000000/console.png" width="50" height="50" alt="Bash" />
@@ -15,11 +8,28 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="50" height="50" alt="PostgreSQL" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="50" height="50" alt="MySQL" />
 </div>
+<div style="display: flex; align-items: center; padding: 2; margin-top: 4">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" height="50" alt="JavaScript" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="50" alt="HTML5" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50" height="50" alt="CSS3" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="50" height="50" alt="React" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="50" height="50" alt="Bootstrap" />
+    <img src="https://img.icons8.com/color/75/000000/tailwindcss.png" width="50" height="50" alt="Tailwind CSS" />
+</div>
 <div style="display: flex; align-items: center; padding: 4; margin-top: 4">
     <img src="https://aptuz-static-bucket.s3.amazonaws.com/static/img/django.png" height="50" alt="Django" />
     <img src="https://www.planeks.net/wp-content/uploads/2021/04/1-removebg-preview.png" height="50" alt="Flask" />
     <img src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png" width="50" height="50" alt="Jupyter" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="50" height="50" alt="Docker" />
+</div>
+<div style="display: flex; align-items: center; padding: 4; margin-top: 4">
+    <img src="https://img.icons8.com/color/75/000000/numpy.png" width="75" height="75" alt="Numpy" style="margin: 10px 15px 0 15px;" />
+    <img src="https://pandas.pydata.org/static/img/pandas_white.svg" width="175" height="75" alt="Pandas" style="margin: 10px 15px 0 15px;" />
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50" alt="Seaborn" style="margin: 10px 15px 0 15px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" height="75" alt="Matplotlib" style="margin: 10px 15px 0 15px;" />
+    <img src="https://th.bing.com/th/id/OIP.xcsLasmDVdhKVoBJBHLyRwHaHa?rs=1&pid=ImgDetMain" height="75" alt="SciPy" style="margin: 10px 15px 0 15px;" />
+    <img src="https://ioflood.com/blog/wp-content/uploads/2023/09/Data-stream-converting-to-hash-Python-hashlib-code-snippets-Python-logo.jpg" width="75" height="75" alt="Python" style="margin: 10px 15px 0 15px;" />
+    
 </div>
 
 
