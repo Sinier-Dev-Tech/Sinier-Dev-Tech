@@ -34,6 +34,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="50" height="50" alt="React" />
 </div>
 <div style="display: flex; align-items: center; padding: 2; margin-top: 4">
+    <img src="https://lqbrin.github.io/tea-time-numerical/images/mathbuntuInstall/mtb24.png" width="50" height="50" alt="Oracle VirtualBox" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="50" height="50" alt="Docker" />
 </div>
 
