@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center; padding: 2;">
+<div style="display: flex; align-items: center; padding: 2; margin-top: 4">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" height="50" alt="JavaScript" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="50" alt="HTML5" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50" height="50" alt="CSS3" />
@@ -6,7 +6,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="50" height="50" alt="Bootstrap" />
     <img src="https://img.icons8.com/color/75/000000/tailwindcss.png" width="50" height="50" alt="Tailwind CSS" />
 </div>
-<div style="display: flex; align-items: center; padding: 2;">
+<div style="display: flex; align-items: center; padding: 2; margin-top: 4">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="50" height="50" alt="Python" />
     <img src="https://img.icons8.com/color/75/000000/console.png" width="50" height="50" alt="Bash" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="50" height="50" alt="Git" />
@@ -15,8 +15,8 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="50" height="50" alt="PostgreSQL" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="50" height="50" alt="MySQL" />
 </div>
-<div style="display: flex; align-items: center; padding: 2;">
-    <img src="https://the-4star-045711.netlify.app/img/logos/django.png" height="50" alt="Django" />
+<div style="display: flex; align-items: center; padding: 4; margin-top: 4">
+    <img src="https://the-4star-045711.netlify.app/img/logos/django.png" height="60" alt="Django" />
     <img src="https://spng.pngfind.com/pngs/s/128-1286693_flask-framework-logo-svg-hd-png-download.png" height="50" alt="Flask" />
     <img src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png" width="50" height="50" alt="Jupyter" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="50" height="50" alt="Docker" />
