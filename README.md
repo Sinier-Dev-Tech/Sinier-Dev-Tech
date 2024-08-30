@@ -26,7 +26,6 @@
     <img src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png" width="50" height="50" alt="Jupyter" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="50" height="50" alt="Bootstrap" />
     <img src="https://img.icons8.com/color/75/000000/tailwindcss.png" width="50" height="50" alt="Tailwind CSS" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="50" height="50" alt="Docker" />
 </div>
 <div style="display: flex; align-items: center; padding: 2; margin-top: 4">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" height="50" alt="JavaScript" />
@@ -34,7 +33,9 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50" height="50" alt="CSS3" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="50" height="50" alt="React" />
 </div>
-
+<div style="display: flex; align-items: center; padding: 2; margin-top: 4">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="50" height="50" alt="Docker" />
+</div>
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Sinier-Dev-Tech&layout=compact&langs_count=20&theme=transparent">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=creinis&layout=compact&langs_count=20&theme=transparent&hide_title=true" />
