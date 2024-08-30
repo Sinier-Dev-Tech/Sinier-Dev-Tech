@@ -1,8 +1,6 @@
 <div style="display: flex; align-items: center; padding: 2;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="50" height="50" alt="Python" />
     <img src="https://img.icons8.com/color/75/000000/console.png" width="50" height="50" alt="Bash" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="50" height="50" alt="C" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="50" height="50" alt="C#" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="50" height="50" alt="Git" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="50" height="50" alt="React" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" height="50" alt="JavaScript" />
@@ -15,7 +13,7 @@
 </div>
 <div style="display: flex; align-items: center; padding: 2;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="50" height="50" alt="Docker" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="50" height="50" alt=".NET" />
+    <img src="https://the-4star-045711.netlify.app/img/logos/django.png" width="50" height="50" alt=".NET" />
     <img src="https://img.icons8.com/color/75/000000/eslint.png" width="50" height="50" alt="ESLint"/>
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="50" height="50" alt="Bootstrap" />
     <img src="https://img.icons8.com/color/75/000000/tailwindcss.png" width="50" height="50" alt="Tailwind CSS" />
