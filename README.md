@@ -9,7 +9,7 @@
 <div style="display: flex; align-items: center; padding: 2; margin-top: 4">
     <img src="https://img.icons8.com/color/75/000000/console.png" width="50" height="50" alt="Bash" />
     <img src="https://images.freeimages.com/fic/images/icons/2420/coded/512/sql.png" width="50" height="50" alt="SQL" />
-    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/bc/8d/9e/bc8d9ec6-865d-4d39-ac81-1f80bf26a3e9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="50" height="50" alt="JQuery" />
+    <img src="https://th.bing.com/th/id/R.a58728919c10c74e25a9b656c478f730?rik=gTN81Fi%2fSsuWFA&riu=http%3a%2f%2fpluspng.com%2fimg-png%2flogo-jquery-png--500.png&ehk=THfdIYMhHMf47eaND6EF6ll%2bfX%2fihxV6PsV6dPHPDow%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" width="50" height="50" alt="JQuery" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="50" height="50" alt="Git" />
 </div>
 <div style="display: flex; align-items: center; padding: 4; margin-top: 4">
