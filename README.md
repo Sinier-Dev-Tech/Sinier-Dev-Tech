@@ -38,10 +38,11 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="50" height="50" alt="Docker" />
 </div>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Sinier-Dev-Tech&layout=compact&langs_count=20&theme=transparent">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=creinis&layout=compact&langs_count=20&theme=transparent&hide_title=true" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=creinis&layout=compact&langs_count=20&theme=transparent&count_private=true&cache_seconds=1800">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=creinis&layout=compact&langs_count=20&theme=transparent&count_private=true&cache_seconds=1800" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api?username=Sinier-Dev-Tech&show_icons=true&theme=transparent">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=creinis&show_icons=true&theme=transparent&rank_icon=percentile&hide_title=true" />
+<a href="https://github-readme-stats.vercel.app/api?username=creinis&show_icons=true&theme=transparent&count_private=true&cache_seconds=1800">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=creinis&show_icons=true&theme=transparent&count_private=true&cache_seconds=1800" />
 </a>
+
 
