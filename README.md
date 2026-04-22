@@ -1,20 +1,20 @@
 <p align="center">
-  <table border="0" cellpadding="0" cellspacing="0" style="margin: 0 auto; border: none;">
-    <!-- Linha 1 -->
+  <table border="0" cellpadding="0" cellspacing="0" style="margin: 0 auto; border: none; background-color: transparent;">
+    <!-- Linha 1 – Core principal (13 ícones, cheia) -->
     <tr>
-      <td align="center" width="80" bgcolor="#f0f0f0"><a href="#" title="Bash"><img src="https://skillicons.dev/icons?i=bash" width="70" height="70" alt="Bash" /></a></td>
-      <td align="center" width="80" bgcolor="#ffffff"><a href="#" title="AWS"><img src="https://skillicons.dev/icons?i=aws" width="70" height="70" alt="AWS" /></a></td>
-      <td align="center" width="80" bgcolor="#f0f0f0"><a href="#" title="Redis"><img src="https://skillicons.dev/icons?i=redis" width="70" height="70" alt="Redis" /></a></td>
-      <td align="center" width="80" bgcolor="#ffffff"><a href="#" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" width="70" height="70" alt="PostgreSQL" /></a></td>
-      <td align="center" width="80" bgcolor="#f0f0f0"><a href="#" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" width="70" height="70" alt="MySQL" /></a></td>
-      <td align="center" width="80" bgcolor="#ffffff"><a href="#" title="Python"><img src="https://skillicons.dev/icons?i=py" width="70" height="70" alt="Python" /></a></td>
-      <td align="center" width="80" bgcolor="#f0f0f0"><a href="#" title="Django"><img src="https://skillicons.dev/icons?i=django" width="70" height="70" alt="Django" /></a></td>
-      <td align="center" width="80" bgcolor="#ffffff"><a href="#" title="Git"><img src="https://skillicons.dev/icons?i=git" width="70" height="70" alt="Git" /></a></td>
-      <td align="center" width="80" bgcolor="#f0f0f0"><a href="#" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" width="70" height="70" alt="MongoDB" /></a></td>
-      <td align="center" width="80" bgcolor="#ffffff"><a href="#" title="Postman"><img src="https://skillicons.dev/icons?i=postman" width="70" height="70" alt="Postman" /></a></td>
-      <td align="center" width="80" bgcolor="#f0f0f0"><a href="#" title="Nginx"><img src="https://skillicons.dev/icons?i=nginx" width="70" height="70" alt="Nginx" /></a></td>
-      <td align="center" width="80" bgcolor="#ffffff"><a href="#" title="Heroku"><img src="https://skillicons.dev/icons?i=heroku" width="70" height="70" alt="Heroku" /></a></td>
-      <td align="center" width="80" bgcolor="#f0f0f0"><a href="#" title="Sequelize"><img src="https://skillicons.dev/icons?i=sequelize" width="70" height="70" alt="Sequelize" /></a></td>
+      <td align="center" width="80"><a href="#" title="Bash"><img src="https://skillicons.dev/icons?i=bash" width="70" height="70" alt="Bash" /></a></td>
+      <td align="center" width="80"><a href="#" title="AWS"><img src="https://skillicons.dev/icons?i=aws" width="70" height="70" alt="AWS" /></a></td>
+      <td align="center" width="80"><a href="#" title="Redis"><img src="https://skillicons.dev/icons?i=redis" width="70" height="70" alt="Redis" /></a></td>
+      <td align="center" width="80"><a href="#" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" width="70" height="70" alt="PostgreSQL" /></a></td>
+      <td align="center" width="80"><a href="#" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" width="70" height="70" alt="MySQL" /></a></td>
+      <td align="center" width="80"><a href="#" title="Python"><img src="https://skillicons.dev/icons?i=py" width="70" height="70" alt="Python" /></a></td>
+      <td align="center" width="80"><a href="#" title="Django"><img src="https://skillicons.dev/icons?i=django" width="70" height="70" alt="Django" /></a></td>
+      <td align="center" width="80"><a href="#" title="Git"><img src="https://skillicons.dev/icons?i=git" width="70" height="70" alt="Git" /></a></td>
+      <td align="center" width="80"><a href="#" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" width="70" height="70" alt="MongoDB" /></a></td>
+      <td align="center" width="80"><a href="#" title="Postman"><img src="https://skillicons.dev/icons?i=postman" width="70" height="70" alt="Postman" /></a></td>
+      <td align="center" width="80"><a href="#" title="Nginx"><img src="https://skillicons.dev/icons?i=nginx" width="70" height="70" alt="Nginx" /></a></td>
+      <td align="center" width="80"><a href="#" title="Heroku"><img src="https://skillicons.dev/icons?i=heroku" width="70" height="70" alt="Heroku" /></a></td>
+      <td align="center" width="80"><a href="#" title="Sequelize"><img src="https://skillicons.dev/icons?i=sequelize" width="70" height="70" alt="Sequelize" /></a></td>
     </tr>
     <!-- Linha 2 – Backend avançado (11 ícones, 1 vazio no início e 1 no fim) -->
     <tr>
